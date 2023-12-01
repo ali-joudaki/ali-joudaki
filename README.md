@@ -1,6 +1,6 @@
 ## About me:
-Developer.
-
+Backend Web Developer, Python/Django Expert.
+[Most of repositories are private, Ask for access through email]
 
   
   
